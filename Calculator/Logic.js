@@ -14,7 +14,6 @@ and limitations under the License.
 ***************************************************************************** */
 
 document.querySelector(".buttons").onclick = function(event){
-    // console.log("Luigi is better than mario");
     let valu = "";
     let target = event.target;
     let input = document.querySelector(".fred");
@@ -41,71 +40,3 @@ document.querySelector(".buttons").onclick = function(event){
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
