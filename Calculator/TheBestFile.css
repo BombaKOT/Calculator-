@@ -1,0 +1,36 @@
+.calaculator_stuff {
+    border-radius: 10px;
+    border: 5px solid #ddd;
+    padding: 5px;
+    width: 370px;
+    margin: 10px auto;
+}
+
+.fred {
+    border-radius: 0;
+    width: 100%;
+    border: 3px solid #ddd;
+    box-sizing: border-box;
+    color: grey;
+    text-align: right;
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+.buttob {
+    border-radius: 0;
+    border: none;
+    outline: none;
+    width: 100px;
+    padding: 10px 20px;
+    color: black;
+    margin: 10px;
+    font-weight: bold; 
+    transition: 0.5s;
+}
+
+.buttob:hover {
+    cursor: pointer;
+    background-color: #ccc;
+}
